@@ -81,7 +81,7 @@ namespace Example_Console_001
             Console.WriteLine();
             Console.ReadKey();
 
-            ArrayBuble<Int32> arrIntBub = new ArrayBuble<Int32>();
+            ArrayBubble<Int32> arrIntBub = new ArrayBubble<Int32>();
             arrInt.CopyTo(arrIntCopy, 0);
             arrIntBub.ElementsCollection = arrIntCopy;
             arrIntBub.Sort();

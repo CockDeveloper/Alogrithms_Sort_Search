@@ -40,7 +40,7 @@
     <Compile Include="ArrayMerge.cs" />
     <Compile Include="ArrayQuick.cs" />
     <Compile Include="ArraySelection.cs" />
-    <Compile Include="ArrayBuble.cs" />
+    <Compile Include="ArrayBubble.cs" />
     <Compile Include="ArrayShell.cs" />
     <Compile Include="Hello.cs" />
   </ItemGroup>

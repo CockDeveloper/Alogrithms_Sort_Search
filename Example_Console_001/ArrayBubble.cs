@@ -5,9 +5,9 @@ using System.Text;
 
 namespace Example_Console_001
 {
-    public class ArrayBuble<T> : ArraySelection<T> where T : IComparable<T>, new()
+    public class ArrayBubble<T> : ArraySelection<T> where T : IComparable<T>, new()
     {
-        public ArrayBuble()
+        public ArrayBubble()
             : base()
         {
 
